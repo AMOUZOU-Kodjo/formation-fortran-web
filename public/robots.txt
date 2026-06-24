@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://formation-fortran.vercel.app/sitemap.xml
