@@ -62,7 +62,7 @@ export default function Layout({ children }) {
               <a href="https://savoirbox.vercel.app/cours-python" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-base-content/60 hover:bg-base-300 hover:text-base-content no-underline transition-colors">
                 <span>📖</span><span>Cours PDF</span>
               </a>
-              <a href="https://github.com/AMOUZOU-Kodjo/formation-fortran-web" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-base-content/60 hover:bg-base-300 hover:text-base-content no-underline transition-colors">
+              <a href="https://github.com/AMOUZOU-Kodjo/FormationCompleteProgrammationFortran" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-base-content/60 hover:bg-base-300 hover:text-base-content no-underline transition-colors">
                 <span>📂</span><span>Code source</span>
               </a>
             </div>
